@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inch2Meter Converter</string>
+    <string name="enter_value_in_inches">Enter value in inches</string>
+    <string name="header_image">Header image</string>
+    <string name="convert_to_meter">Convert</string>
+    <string name="inches">inch(es)</string>
+</resources>
